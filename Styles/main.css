@@ -1,0 +1,19 @@
+body {
+background:#999;
+}
+
+h1 {
+	color:Blue;
+}
+
+a {
+	background:Skyblue;
+	padding:10px;
+}
+
+ul li {
+	display: inline-block;
+	list-style-type: none;
+	padding: 5px 5px;
+	float: center;
+}
